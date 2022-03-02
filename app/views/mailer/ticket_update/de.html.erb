@@ -25,5 +25,5 @@ Ticket (#{ticket.title}) wurde von "<b>#{current_user.longname}</b>" aktualisier
 <% end %>
 <br>
 <div>
-  <a href="#{config.http_type}://#{config.fqdn}/#ticket/zoom/#{ticket.id}<% if @objects[:article] %>/#{article.id}<% end %>" target="zammad_app">#{t('View this in DragonWar Helpdesk')}</a>
+  <a href="#{config.http_type}://#{config.fqdn}/#ticket/zoom/#{ticket.id}<% if @objects[:article] %>/#{article.id}<% end %>" target="zammad_app">View this in DragonWar Helpdesk</a>
 </div>
