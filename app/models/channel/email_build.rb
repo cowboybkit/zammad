@@ -158,7 +158,7 @@ generate email with S/MIME
       mail['X-Auto-Response-Suppress'] = 'All'
     end
 
-    mail['X-Powered-By'] = 'DragonWar - Helpdesk/Support (https://dragonwar.io/)'
+    mail['X-Powered-By'] = 'DragonWar - Helpdesk/Support (https://helpdesk.dragonwar.io/)'
     mail['X-Mailer'] = 'DragonWar Mail Service'
 
     mail
