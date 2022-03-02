@@ -34,7 +34,7 @@ class TicketNotificationTest < ActiveSupport::TestCase
 <a href="#{config.http_type}://#{config.fqdn}/#ticket/zoom/#{ticket.id}">#{config.http_type}://#{config.fqdn}/#ticket/zoom/#{ticket.id}</a>
 </p>
 <br/>
-<p><i><a href="http://zammad.com">Zammad</a>, your customer support system</i></p>',
+<p><i><a href="https://heldesk.dragonwar.io">DragonWar Helpdesk</a>, a service from Dragon War.</i></p>',
           'recipient' => 'ticket_customer',
           'subject'   => 'Thanks for your inquiry (#{ticket.title})',
           # rubocop:enable Lint/InterpolationCheck
