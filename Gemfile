@@ -149,6 +149,8 @@ gem 'viewpoint', require: false
 # integrations - S/MIME
 gem 'openssl'
 
+gem 'i18n', '1.9.1'
+
 # Gems used only for develop/test and not required
 # in production environments by default.
 group :development, :test do
