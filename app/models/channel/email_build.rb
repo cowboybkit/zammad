@@ -158,8 +158,8 @@ generate email with S/MIME
       mail['X-Auto-Response-Suppress'] = 'All'
     end
 
-    mail['X-Powered-By'] = 'Zammad - Helpdesk/Support (https://zammad.org/)'
-    mail['X-Mailer'] = 'Zammad Mail Service'
+    mail['X-Powered-By'] = 'DragonWar - Helpdesk/Support (https://dragonwar.io/)'
+    mail['X-Mailer'] = 'DragonWar Mail Service'
 
     mail
   end

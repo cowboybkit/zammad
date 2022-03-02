@@ -104,7 +104,7 @@ Content-Type: multipart/mixed;
  charset=UTF-8
 Content-Transfer-Encoding: 7bit
 Organization: example
-X-Powered-By: Zammad - Helpdesk/Support (https://zammad.org/)
-X-Mailer: Zammad Mail Service
+X-Powered-By: DragonWar - Helpdesk/Support (https://dragonwar.io/)
+X-Mailer: DragonWar Mail Service
 
 --342ADE03AD.1488221563/smtp30.relay.dfw1a.example.com--
